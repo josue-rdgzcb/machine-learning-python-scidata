@@ -1,0 +1,11 @@
+id,island,bill_length_mm,bill_depth_mm,flipper_length_mm,body_mass_g,sex,year
+0,Torgersen,39.2,19.6,195,4675,male,2007
+1,Torgersen,34.4,18.4,184,3325,female,2007
+2,Biscoe,40.5,17.9,187,3200,female,2007
+3,Torgersen,33.5,19,190,3600,female,2008
+4,Biscoe,43.3,13.4,209,4400,female,2007
+5,Biscoe,46.5,14.4,217,4900,female,2008
+6,Biscoe,50,15.9,224,5350,male,2009
+7,Biscoe,45.5,14.5,212,4750,female,2009
+8,Dream,42.4,17.3,181,3600,female,2007
+9,Dream,45.7,17,195,3650,female,2009
